@@ -1,0 +1,7 @@
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\bin\Billing_Software.dll
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\bin\Billing_Software.pdb
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\bin\itextsharp.dll
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\bin\Newtonsoft.Json.dll
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.dll
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.pdb
+C:\Users\sourabh.vyas\documents\visual studio 2012\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.csprojResolveAssemblyReference.cache
